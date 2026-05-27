@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuncrypt",
+        "uuid": 12396800,
+        "checksum": "q2njlr"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
